@@ -1,4 +1,4 @@
-<h2># Plugin-Starter<h2><br>
+<h2># Custom Post Type Starter<h2><br>
 <hr>
-<p>FreshySites Plugin Starter - Template Repo</p>
-<a href="https://github.com/FreshyMichael/Plugin-Starter/generate">Use this template</a>
+<p>FreshySites Custom Post Type Starter - Template Repo</p>
+<a href="https://github.com/FreshyMichael/CustomPostType-Template/generate">Use this template</a>
